@@ -2,7 +2,7 @@
 Modified DeepLab V3+ architecture for semantic segmentation on IDD
 
 # Dependencies
-We have used <a href="https://github.com/tensorflow">TensorFlow's</a> 2 research models, namely <a href="https://github.com/tensorflow/models/tree/master/research/deeplab">Deeplab</a> & <a href="https://github.com/tensorflow/models/tree/master/research/slim">Slim</a>, to perform Semantic Segmentation on the <a href="https://idd.insaan.iiit.ac.in/">Indian Driving Dataset</a>.
+We have used [TensorFlow's](https://github.com/tensorflow) 2 research models, namely [Deeplab](https://github.com/tensorflow/models/tree/master/research/deeplab) & [Slim](https://github.com/tensorflow/models/tree/master/research/slim), to perform Semantic Segmentation on the [Indian Driving Dataset](https://idd.insaan.iiit.ac.in/).
 
 [@tensorflow/models/tree/master/research/deeplab](https://github.com/tensorflow/models/tree/master/research/deeplab) is used to perform Semantic Segmentation task.
 
